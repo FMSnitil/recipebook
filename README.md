@@ -64,5 +64,4 @@ PORT=3000
 MONGODB_URI=mongodb://localhost:27017/recipebook
 JWT_SECRET=your_jwt_secret
 
-Copy code
-Tento README soubor obsahuje základní informace o aplikaci, jak ji spustit, seznam dostupných endpointů a instrukce pro spuštění testů a konfiguraci. Můžeš ho dále rozšířit o další informace podle potřeby.
+
